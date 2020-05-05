@@ -1,0 +1,1 @@
+You need to change Application.Run() arguments in Program.cs file, if you want to switch from task 1 to task 2-3
